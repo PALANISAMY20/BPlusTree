@@ -1,4 +1,4 @@
-# B+ Tree
+# B+ Tree Data Structure
 
 ## Results
 - The computed time is in microseconds.
